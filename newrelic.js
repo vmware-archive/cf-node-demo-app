@@ -8,11 +8,11 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['imorti-node'],
+  app_name: ['your-app'],
   /**
    * Your New Relic license key.
    */
-  license_key: '2e271686303f580eb4ce090aea4015bac2b3c1b9',
+  license_key: 'your-key',
   logging: {
     /**
      * Level at which to log. 'trace' is most useful to New Relic when diagnosing
