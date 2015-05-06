@@ -1,3 +1,4 @@
+
 # cloudfoundry-node
 A sample node app for use with Cloud Foundry and Pivotal Web Services
 
@@ -13,3 +14,7 @@ A sample node app for use with Cloud Foundry and Pivotal Web Services
 And you should see your app data! 
 
 Feedback welcome as I try to make this more useful. 
+
+# cf-node-demo-app
+A node app for Cloud Foundry Demos. 
+
